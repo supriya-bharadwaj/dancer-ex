@@ -1,4 +1,4 @@
-Hello from JBoss Developer Studio  It is currently [% timestamp %]
+Hello from JBoss Developer Studio!  It is currently [% timestamp %]
 <br>
 <br>
 <form action="/" method="post">
