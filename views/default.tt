@@ -210,7 +210,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your Dancer application on OpenShift in JBoss Developer Studio!</h1>
+            <h1>Welcome to your Dancer application on OpenShift v3 in JBoss Developer Studio!</h1>
           </hgroup>
 
 
